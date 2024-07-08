@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/pistolv2.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/pistol.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/pistolcolor.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/Pistol_Material.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Blueprints/BP_Projectile.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/LP.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Blueprints/BP_Zombie.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/FY/45JOQ38QR4K2P62IGCH99F.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/T0/EBYC3MOTOF5R3LR4JZ5KKY.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/BR/9KV2CZUMEMIV2MGNNP4EE2.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/Y3/7XOA9RVOD3KEA2Q9P776BO.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/RM/I9CDENR84FBZQ75W281YU0.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/02/RQJFRT6T5UYZYY2PP21JY3.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/BulletLP_DefaultMaterial_Normal.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/Characters/Mannequins/Animations/Manny/ZombieRun_UE.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/Characters/Mannequins/Animations/Manny/PistolIdle_UE.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/Characters/Mannequins/Animations/Manny/PistolRun_UE.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/Characters/Mannequins/Animations/Manny/PistolWalk_UE.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/BulletLP_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/Bullet.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/BulletLP_DefaultMaterial_BaseColor.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/Bullet2.uasset",
+				"C:/Users/Will/Documents/Unreal Projects/Zombie/Content/TopDown/Pistol/Bullet3.uasset"
+			]
+		}
+	]
+}
